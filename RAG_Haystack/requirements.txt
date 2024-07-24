@@ -1,0 +1,3 @@
+haystack-ai>=2.3.0
+llama-cpp-haystack>=0.4.0
+sentence-transformers>=3.0.1
