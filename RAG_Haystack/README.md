@@ -45,7 +45,8 @@ The model is too large to check in to github (and it would be rather a waste of 
 
 ## Running
 
-Open the RAG_Pipeline.ipynb in Jupyter.
+Open the RAG_Pipeline.ipynb in Jupyter. Run all. Try changing the question...
+![image](https://github.com/user-attachments/assets/d6d25391-298a-41a7-a5f4-79914ff7c032)
 
 ## Notes
 
