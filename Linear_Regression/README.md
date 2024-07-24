@@ -40,4 +40,5 @@ python -m ipykernel install --user --name=.venv --display-name "Python (myvenv)"
 
 Select your '.venv' by clicking on 'kernels' and typing in the path or otherwise selecting it. You may or may not need to give visual studio a kick up the bum to get it to work by restarting vsCode.
 
-If you've got it working, you should see this: ![newplot](https://github.com/user-attachments/assets/a0adcabf-1ec7-49d8-bd05-7badf4c20741)
+If you've got it working, you should see this: ![image](https://github.com/user-attachments/assets/3cdca0d2-5989-4ebf-8b51-cd35c00fa877)
+
